@@ -16,6 +16,8 @@ flags="--bdd  --serializeAST \
   -I ../TypeChef-GNUCHeader/usr_include \
   -I ssl \
   -I crypto \
+  -I ../TypeChef-GNUCHeader/java-include \
+  -I ../TypeChef-GNUCHeader/java-include/linux \
   -I httpd/kepler-1.1/launcher/mod2 \
   -I httpd/kepler-1.1/luasql/vc6 \
   -I httpd/kepler-1.1/launcher/fastcgi \
